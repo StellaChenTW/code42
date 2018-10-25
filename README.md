@@ -1,2 +1,2 @@
 # code42
-self notes
+self notes and my answer 
